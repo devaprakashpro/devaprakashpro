@@ -1,16 +1,47 @@
-### Hi there 👋
+# Hai! <img width="30" src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif"/>
 
-<!--
-**devaprakashpro/devaprakashpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`MY SELF` > Balamurugan P M**
 
-Here are some ideas to get you started:
+**`ABOUT ME` > studing BE.CSE <img width="30" src="https://user-images.githubusercontent.com/74038190/219925466-75d83a1e-cb88-4e7b-9c11-6678ce27029f.jpg"/>**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**`SKILLS` > Web Dev (HTML & CSS & JS & BOOTSTRAP)**
+
+**`PROGRAMMING LANGUAGE` > Python**
+
+**`WORKING` > Web Developer <img width="30" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"/>**
+<hr>
+
+**My Another Github Profile**
+> **[@Selfie-BD](https://github.com/selfie-bd)**
+<hr>
+
+<img align="" width="300" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"/>
+
+
+## SOCIAL LINK
+
+<img align="left" width="30" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif"/>[Instagram](https://instagram.com/balaselfie_bd)
+
+<img align="left" width="30" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"/>[LinkedIn](https://www.linkedin.com/in/balamurugan-p-m)
+
+<img align="left" width="30" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif"/>[Whatsapp](https://wa.me/+919677804820)
+
+<img align="left" width="30" src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png"/>[Email](mailto:balamuruganedsty@gmail.com)
+
+
+<img width="300" align="center" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
+# Language Used In Source Codes
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balamuruganpm&layout=compact)
+
+## Profile views counter 
+
+![Visitor Count](https://profile-counter.glitch.me/balamuruganpm/count.svg)
+
+ ## 📈 My Github Stats!
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=balamuruganpm&show_icons=true&title_color=733&icon_color=393&include_all_commits=true&theme=onedark&cache_seconds=86400)
+
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=balamuruganpm)](https://git.io/streak-stats)
+
