@@ -1,12 +1,10 @@
 # Hai! <img width="30" src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif"/>
 
-**`MY SELF` > Balamurugan P M**
+**`MY SELF` > DEVAPRAKASH**
 
 **`ABOUT ME` > studing BE.CSE <img width="30" src="https://user-images.githubusercontent.com/74038190/219925466-75d83a1e-cb88-4e7b-9c11-6678ce27029f.jpg"/>**
 
 **`SKILLS` > Web Dev (HTML & CSS & JS & BOOTSTRAP)**
-
-**`PROGRAMMING LANGUAGE` > Python**
 
 **`WORKING` > Web Developer <img width="30" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"/>**
 <hr>
