@@ -64,20 +64,11 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devaprakash-dev&show_icons=true&theme=github_dark" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaprakash-dev&layout=compact&theme=github_dark" height="180" />
-</p>
-
----
-
 ### 🚀 Let's Connect
 
 - 🔗 Portfolio: [devaprakash.com](http://devaprakash.com)
 - 💌 Email: [devaprakashdev@gmail.com](mailto:devaprakashdev@gmail.com)
-- 💼 LinkedIn: [devaprakashr]([mailto:devaprakashdev@gmail.com](https://www.linkedin.com/in/devaprakash-r-182960272)) 
+- 💼 LinkedIn: [devaprakashr](mailto:devaprakashdev@gmail.com](https://www.linkedin.com/in/devaprakash-r-182960272)) 
 
 
 ---
