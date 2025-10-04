@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="36px" /> I'm DevaPrakash</h1>
 
 <p align="center">
-  <strong>MERN Stack Developer</strong> | <strong>Cloud & Networking Enthusiast | Pc build</strong><br>
+  <strong>PERN Stack Developer</strong> | <strong>Cloud & Networking Enthusiast | Pc build</strong><br>
   I build full-stack web apps and tools, explore cloud infrastructure, and solve complex problems across domains.
 </p>
 
@@ -68,7 +68,7 @@
 
 - 🔗 Portfolio: [devaprakash.com](http://devaprakash.com)
 - 💌 Email: [devaprakashdev@gmail.com](mailto:devaprakashdev@gmail.com)
-- 💼 LinkedIn: [devaprakashr](mailto:devaprakashdev@gmail.com](https://www.linkedin.com/in/devaprakash-r-182960272)) 
+- 💼 LinkedIn: [devaprakashr](https://www.linkedin.com/in/devaprakash-r-182960272) 
 
 
 ---
