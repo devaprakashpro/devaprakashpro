@@ -11,7 +11,7 @@
 
 - 🌍 Based in **India**
 - 🧠 Currently exploring **LLMs, MCP Servers, Vibe Code, AI Agents, and n8n Workflows**
-- 🖥️ Portfolio: [devaprakash.com](http://devaprakash.com)
+- 🖥️ Portfolio: [devaprakash.in](http://devaprakash.in)
 - 📬 Contact me: [devaprakashdev@gmail.com](mailto:devaprakashdev@gmail.com)
 
 ---
@@ -66,7 +66,7 @@
 
 ### 🚀 Let's Connect
 
-- 🔗 Portfolio: [devaprakash.com](http://devaprakash.com)
+- 🔗 Portfolio: [devaprakash.in](http://devaprakash.in)
 - 💌 Email: [devaprakashdev@gmail.com](mailto:devaprakashdev@gmail.com)
 - 💼 LinkedIn: [devaprakashr](https://www.linkedin.com/in/devaprakash-r-182960272) 
 
